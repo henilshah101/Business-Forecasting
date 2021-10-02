@@ -5,6 +5,7 @@ This project seeks to understand the change in gasoline prices based on consumer
 
 Data information:
 The gas pricing data was obtained from Kaggle, which linked to the U.S. Energy Administration Information dataset for U.S. gasoline prices. Conventional car registration data was found at the U.S. Department of Transportation's Federal Highway Administration's Office of Highway Policy Information website. Sales of Electric Vehicles were obtained from the U.S. Department of Energy's Alternative Fuels Data Center, and natural gas vehicle fuel consumption was found on the U.S. Energy Administration Information's website. 
+
 Links: 
 https://www.kaggle.com/mruanova/us-gasoline-and-diesel-retail-prices-19952021
 https://www.eia.gov/dnav/pet/PET_PRI_GND_A_EPMRU_PTE_DPGAL_A.htm
